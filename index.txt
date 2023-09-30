@@ -42,13 +42,13 @@
       <div class="sidebar-info">
 
         <figure class="avatar-box">
-          <img src="./assets/images/ajeet-devops.JPG" alt="Ajeet Khan" width="80">
+          <img src="./assets/images/chowdarybvsn.JPG" alt="chowdarybvsn" width="80">
         </figure>
 
         <div class="info-content">
           <h1 class="name" title="Chowdarybvsn">chowdarybvsn</h1>
 
-          <p class="title">DevOps | Educator | Mentor</p>
+          <p class="title">DevOps | Educator | JOB seeker</p>
         </div>
 
         <button class="info_more-btn" data-sidebar-btn>
